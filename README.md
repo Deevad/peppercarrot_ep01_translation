@@ -4,6 +4,8 @@
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 Source folder with SVG to crowdsource translation of the webcomic Pepper and Carrot episode 1: Potion of Flight
 
+![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E01.png)
+
 #License
 
 ##Artworks : 
@@ -13,6 +15,7 @@ Attribution to : "David Revoy, www.peppercarrot.com"
 ##Translators and correctors : 
 
 *French : David Revoy
+
 *English : David Revoy
 
 ##Fonts:
