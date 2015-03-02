@@ -14,9 +14,9 @@ Attribution to : "David Revoy, www.peppercarrot.com"
 
 ##Translators and correctors : 
 
-*French : David Revoy
-
-*English : David Revoy
+* French : David Revoy
+* English : David Revoy
+* Russian : Andrew "Akari" Alexeyew
 
 ##Fonts:
 
@@ -31,3 +31,7 @@ Font in use so far :
 
 [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html)
 By Ruben Holthuijsen ( aka Rholt ), [reference](http://www.dafont.com/lavi.font)
+
+###Blogger Sans-Italic.ttf
+
+[CC-BY](http://creativecommons.org/licenses/by/3.0/)
