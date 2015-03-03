@@ -77,8 +77,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.24089151"
-     inkscape:cx="136.2934"
-     inkscape:cy="10806.631"
+     inkscape:cx="-484.31793"
+     inkscape:cy="11138.731"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -106,13 +106,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Frederico\Desktop\Pepper\Ep1\peppercarrot_ep01_translation-master\en\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
-       width="2800"
-       height="12658"
-       id="image3084"
+       sodipodi:absref="C:\Users\Frederico\Documents\GitHub\peppercarrot_ep01_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image3084"
+       height="12658"
+       width="2800" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -258,7 +258,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cbba74;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cbba74;fill-opacity:1;stroke:none"
        transform="translate(-50.181464,1.9300563)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
@@ -268,7 +268,7 @@
            y="425.30325"
            style="font-size:72px;fill:#cbba74;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-size:88px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#cbba74;fill-opacity:1;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 1 : Potion of flight</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#cbba74;fill-opacity:1">Episódio 1 : A Poção de Voo</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
