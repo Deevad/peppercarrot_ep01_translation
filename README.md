@@ -17,6 +17,7 @@ Attribution to : "David Revoy, www.peppercarrot.com"
 * French : David Revoy
 * English : David Revoy
 * Russian : Andrew "Akari" Alexeyew
+* Portuguese : Frederico Batista
 
 ##Fonts:
 
