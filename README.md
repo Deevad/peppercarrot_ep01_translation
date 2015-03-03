@@ -1,42 +1,48 @@
-# Pepper&Carrot 01 translation project
-# Potion of Flight
+# Pepper&Carrot translation project
+# Episode 01 : Potion of Flight
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
 ![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E01.png)
 
-#License
 
-##Translators and correctors : 
+License
+=======
 
-* French : David Revoy
+[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-* English : David Revoy
+## Translators and correctors : 
+
+* French     : David Revoy
+
+* English    : David Revoy
 
 * Portuguese : Frederico Batista
 
-* Russian : Andrew "Akari" Alexeyew
+* Russian    : Andrew "Akari" Alexeyew
 
-* Sinhala : Tharinda Divakara
+* Sinhala    : Tharinda Divakara
 
-##Artworks : 
-[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
-Attribution to : "David Revoy, www.peppercarrot.com"
 
-##Fonts:
+## Fonts:
 
-New fonts added in this project must be compatible with the CC-By license.
-Are accepted : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL) ,  + Name of author + Link
-Not accepted : Font only known to be 'free' but without details or license, Copyrighted fonts, etc...
-Good place for open fonts : [http://openfontlibrary.org](http://openfontlibrary.org)
+* Lavi by Ruben Holthuijsen aka Rholt
+[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
 
-Font in use so far :
+* Blogger by Sergiy S. Tkachenko
+[CC-BY](http://creativecommons.org/licenses/by/3.0/), [link](http://openfontlibrary.org/en/font/blogger-sans)
 
-###Lavi.ttf
 
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html)
-By Ruben Holthuijsen ( aka Rholt ), [reference](http://www.dafont.com/lavi.font)
+## Artworks : 
 
-###Blogger Sans-Italic.ttf
+* David Revoy, www.peppercarrot.com
 
-[CC-BY](http://creativecommons.org/licenses/by/3.0/)
+
+Infos :
+=======
+
+- Translation/Correction [full how-to documentation](http://www.peppercarrot.com/fr/article267/how-to-add-a-translation-or-a-correction)
+
+- Ressources added in this project must be compatible with the CC-By license ( fonts, images, etc ). Are compatible : Public domain fonts, GNU/GPL fonts, CC-0 fonts, CC-BY fonts, SIL Open Font License (OFL). Adding author name plus a link and license is appreciated.
+
+- Do not edit or propose a commit for the artworks in this repositories. Artworks here are low-resolution proxy files only. The real hi-res layered artworks,  *.kra files, are [available here] www.peppercarrot.com/static6/sources.
