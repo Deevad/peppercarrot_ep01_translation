@@ -1,23 +1,27 @@
-# Pepper&Carrot
-# episode 01 translation project
+# Pepper&Carrot 01 translation project
+# Potion of Flight
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
-Source folder with SVG to crowdsource translation of the webcomic Pepper and Carrot episode 1: Potion of Flight
 
 ![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E01.png)
 
 #License
 
-##Artworks : 
-[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
-Attribution to : "David Revoy, www.peppercarrot.com"
-
 ##Translators and correctors : 
 
 * French : David Revoy
+
 * English : David Revoy
-* Russian : Andrew "Akari" Alexeyew
+
 * Portuguese : Frederico Batista
+
+* Russian : Andrew "Akari" Alexeyew
+
+* Sinhala : Tharinda Divakara
+
+##Artworks : 
+[Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+Attribution to : "David Revoy, www.peppercarrot.com"
 
 ##Fonts:
 
