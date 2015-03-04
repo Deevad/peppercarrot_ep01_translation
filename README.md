@@ -23,6 +23,8 @@ License
 
 * Sinhala    : Tharinda Divakara
 
+* Spanish    : TheFaico
+
 
 ## Fonts:
 
