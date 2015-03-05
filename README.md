@@ -15,6 +15,8 @@ License
 
 * French     : David Revoy
 
+* Dutch      : Willem Sonke
+
 * English    : David Revoy
 
 * Portuguese : Frederico Batista
@@ -24,8 +26,6 @@ License
 * Sinhala    : Tharinda Divakara
 
 * Spanish    : TheFaico
-
-* Dutch      : Willem Sonke
 
 
 ## Fonts:
