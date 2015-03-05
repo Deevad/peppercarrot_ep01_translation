@@ -13,11 +13,11 @@ License
 
 ## Translators and correctors : 
 
-* French     : David Revoy
-
 * Dutch      : Willem Sonke
 
 * English    : David Revoy
+
+* French     : David Revoy
 
 * Portuguese : Frederico Batista
 
