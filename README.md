@@ -11,13 +11,15 @@ License
 
 [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 
-## Translators and correctors : 
+## Translators and correctors :
 
 * Dutch      : Willem Sonke
 
 * English    : David Revoy
 
 * French     : David Revoy
+
+* German     : Helmar Suschka / Alexandra Jordan
 
 * Portuguese : Frederico Batista
 
@@ -37,7 +39,7 @@ License
 [CC-BY](http://creativecommons.org/licenses/by/3.0/), [link](http://openfontlibrary.org/en/font/blogger-sans)
 
 
-## Artworks : 
+## Artworks :
 
 * David Revoy, www.peppercarrot.com
 
