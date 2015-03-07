@@ -21,6 +21,10 @@ License
 
 * German     : Helmar Suschka / Alexandra Jordan
 
+* Greek	     : Dimitris Axiotis
+
+* Japanese   : guruguru
+
 * Portuguese : Frederico Batista
 
 * Russian    : Andrew "Akari" Alexeyew
@@ -35,8 +39,14 @@ License
 * Lavi by Ruben Holthuijsen aka Rholt
 [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
 
-* Blogger by Sergiy S. Tkachenko
+* Russian: Blogger by Sergiy S. Tkachenko
 [CC-BY](http://creativecommons.org/licenses/by/3.0/), [link](http://openfontlibrary.org/en/font/blogger-sans)
+
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM
+[MFont+ license](http://jikasei.me/font/rounded-mplus/license.html), [link](http://jikasei.me/font/rounded-mplus/about.html)
+
+* Greek: Pecita by user Pecita
+[OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
 
 
 ## Artworks :
