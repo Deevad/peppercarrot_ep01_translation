@@ -208,7 +208,7 @@
      showgrid="false"
      inkscape:zoom="0.90380221"
      inkscape:cx="640.59069"
-     inkscape:cy="319.99079"
+     inkscape:cy="273.03178"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -221,11 +221,11 @@
   <image
      sodipodi:absref="D:\T\oth\david\trns\peppercarrot_ep01_translation-master\peppercarrot_ep01_translation-master\si\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -243,7 +243,9 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">1වන කතාංගය : ඉගිලීමේ මායා වඩිය</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">1<flowSpan
+   style="-inkscape-font-specification:'BhashitaComplex Bold';font-family:BhashitaComplex;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="flowSpan3371">වන කතාංගය : ඉගිලීමේ මායා වඩිය</flowSpan></flowPara></flowRoot>    <path
        style="fill:#000000"
        d=""
        id="path3378"
