@@ -35,6 +35,8 @@ License
 
 * Ukrainian  : Leonid "Deburger" Androschuk
 
+* Polish     : Przemysław "Kev" Chudzia
+
 
 ## Fonts:
 
