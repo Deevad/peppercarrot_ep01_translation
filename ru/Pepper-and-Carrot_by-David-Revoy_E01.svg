@@ -121,13 +121,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/akari/git/peppercarrot_ep01_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
+     sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-05-04_ep01_Potion-of-flight/lang/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -150,5 +150,31 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Blogger Sans';-inkscape-font-specification:'Blogger Sans Italic';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Эпизод 1 : Зелье полета</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Эпизод 1 : Зелье полета</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3797)"
+       transform="matrix(0.47546285,0,0,0.4728135,-359.98742,344.07254)"><flowRegion
+         id="flowRegion3065-7"><rect
+           id="rect3067-4"
+           width="2715.5891"
+           height="110.01318"
+           x="92.642677"
+           y="425.30325"
+           style="font-size:72px;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara3069-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;">Перчинка</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3797)"
+       transform="matrix(0.47546285,0,0,0.4728135,85.696938,350.36338)"><flowRegion
+         id="flowRegion3065-7-5"><rect
+           id="rect3067-4-4"
+           width="2715.5891"
+           height="110.01318"
+           x="92.642677"
+           y="425.30325"
+           style="font-size:72px;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara3069-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;">Морквик</flowPara></flowRoot>  </g>
 </svg>
