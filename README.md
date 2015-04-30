@@ -23,6 +23,8 @@ License
 
 * Greek	     : Dimitris Axiotis
 
+* Italian    : Antonio Parisi
+
 * Japanese   : guruguru
 
 * Portuguese : Frederico Batista
