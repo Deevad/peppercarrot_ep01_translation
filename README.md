@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 01 : Potion of Flight
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -13,7 +13,9 @@ License
 
 ## Translators and correctors :
 
-* Català      : Juan José Segura* :
+* Arabic     : Mahwiii
+
+* Català     : Juan José Segura
 
 * Dutch      : Willem Sonke
 
@@ -23,7 +25,7 @@ License
 
 * German     : Helmar Suschka / Alexandra Jordan
 
-* Greek	     : Dimitris Axiotis
+* Greek	    : Dimitris Axiotis
 
 * Italian    : Antonio Parisi
 
@@ -44,19 +46,24 @@ License
 
 ## Fonts:
 
-* Lavi by Ruben Holthuijsen aka Rholt
-[GNU GPL V3](http://www.gnu.org/copyleft/gpl.html), [link](http://www.dafont.com/lavi.font)
 
-* Rounded-mplus-1c-medium.ttf from Rounded M+ by MM
-[MFont+ license](http://jikasei.me/font/rounded-mplus/license.html), [link](http://jikasei.me/font/rounded-mplus/about.html)
+* Latin: Lavi by Ruben Holthuijsen aka Rholt [GNU GPL V3](http://www.gnu.org/copyleft/gpl.html) [link](http://www.dafont.com/lavi.font)
 
-* Pecita by user Pecita
-[OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
+* Latin: Robokoz  by Ray Larabie, rlarabie@hotmail.com [CC-0 / Public Domain], [link](http://dafont.me/view_file/175/UmVhZF9NZS50eHQ=/read_me.txt)
 
-* Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka
-[Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+* Russian: Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
 
-* Neucha by [Jovanny Lemonad](https://plus.google.com/115426726897976242009/about), [SIL Open Font License](http://scripts.sil.org/OFL), [link](https://www.google.com/fonts/specimen/Neucha)
+* Japanese: rounded-mplus-1c-medium.ttf from Rounded M+ by MM [MFont+ license]　(http://jikasei.me/font/rounded-mplus/license.html) [link] (http://jikasei.me/font/rounded-mplus/about.html)
+
+* Arabic: Midan-Normal by Almohtaraf Assaudi[MIT License](http://opensource.org/licenses/mit-license.php),  [link](http://openfontlibrary.org/en/font/midan-normal)
+
+* Arabic: Midian-Black by Kameel Hawa[MIT License](http://opensource.org/licenses/mit-license.php), [link](http://openfontlibrary.org/en/font/midan-black)
+
+* Arabic: Alhor by Nadim Shaikli[GNU GPL](http://www.gnu.org/copyleft/gpl.html), [link](http://openfontlibrary.org/en/font/alhor)
+
+* Sinhala: Bashita Complex Bold by the ICT Agency (ICTA) of Sri Lanka [Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/), [link](http://www.icta.lk/index.php?option=com_content&view=article&id=1497:sinhala-tamil-unicode-fonts-bhashitha-and-sritamil&catid=104&Itemid=234&lang=en)
+
+* Greek: Pecita by OFL user Pecita [OFL (SIL Open Font Licence)](scripts.sil.org/OFL), [link](http://openfontlibrary.org/font/pecita)
 
 
 ## Artworks :
