@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 01 : Potion of Flight
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -31,6 +31,8 @@ License
 
 * Japanese   : guruguru
 
+* Polish     : Przemysław "Kev" Chudzia
+
 * Portuguese : Frederico Batista
 
 * Russian    : Andrew "Akari" Alexeyew
@@ -41,7 +43,7 @@ License
 
 * Ukrainian  : Leonid "Deburger" Androschuk
 
-* Polish     : Przemysław "Kev" Chudzia
+* Vietnamese : Binh Pham
 
 
 ## Fonts:
