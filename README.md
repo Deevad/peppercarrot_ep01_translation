@@ -21,6 +21,8 @@ License
 
 * English    : David Revoy
 
+* Esperanto  : libre fan
+
 * French     : David Revoy
 
 * German     : Helmar Suschka / Alexandra Jordan
