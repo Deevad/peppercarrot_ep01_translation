@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,16 +72,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1918"
-     inkscape:window-height="1023"
+     inkscape:window-width="1345"
+     inkscape:window-height="982"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29623656"
-     inkscape:cx="1762.4774"
-     inkscape:cy="662.48378"
-     inkscape:window-x="2"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
+     inkscape:cx="1912.5955"
+     inkscape:cy="12195.366"
+     inkscape:window-x="422"
+     inkscape:window-y="91"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -106,7 +106,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-05-04_ep01_Potion-of-flight/lang/eo/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
+       sodipodi:absref="/home/deevad/Pepper-and-Carrot/webcomic/2014-05-04_ep01_Potion-of-flight/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
        width="2800"
        height="12658"
@@ -430,5 +430,44 @@
          style="font-size:31.05892754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;letter-spacing:7.18542147px;text-anchor:end;color:#000000;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="flowPara3300-48">WWW.PEPPERCARROT.COM</flowPara><flowPara
          style="font-size:31.05892754px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;letter-spacing:7.18542147px;text-anchor:end;color:#000000;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="flowPara4439">05/2014</flowPara></flowRoot>  </g>
+         id="flowPara4439">05/2014</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2996"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e9ddaf;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(1.4459619,0,0,1.3974976,209.1689,-4.6020535)"><flowRegion
+         id="flowRegion2998"><rect
+           id="rect3000"
+           width="549.01398"
+           height="107.30727"
+           x="464.16632"
+           y="16.660873"
+           style="fill:#e9ddaf" /></flowRegion><flowPara
+         id="flowPara3002"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e9ddaf;font-family:Risque;-inkscape-font-specification:Risque">Pipro </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3012"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e9ddaf;fill-opacity:1;stroke:none;display:inline;font-family:Risque;-inkscape-font-specification:Risque"
+       transform="translate(226.0239,-85.179444)"><flowRegion
+         id="flowRegion3014"><rect
+           id="rect3016"
+           width="247.05627"
+           height="82.352089"
+           x="1140.4517"
+           y="178.86954"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e9ddaf;font-family:Risque;-inkscape-font-specification:Risque" /></flowRegion><flowPara
+         id="flowPara3018"
+         style="font-size:72px;fill:#e9ddaf">kaj</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3020"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e9ddaf;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(2.5856793,0,0,2.7333209,-2034.7245,-315.52274)"><flowRegion
+         id="flowRegion3022"><rect
+           id="rect3024"
+           width="158.68651"
+           height="53.440353"
+           x="1459.8779"
+           y="118.9771"
+           style="fill:#e9ddaf" /></flowRegion><flowPara
+         id="flowPara3026"
+         style="font-size:38.49537658999999934px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e9ddaf;font-family:Risque;-inkscape-font-specification:Risque">Karoĉjo</flowPara></flowRoot>  </g>
 </svg>
