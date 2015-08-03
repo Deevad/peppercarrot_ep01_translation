@@ -51,6 +51,8 @@ License
 
 * Sinhala    : Tharinda Divakara
 
+* Slovak     : Talime
+
 * Spanish    : TheFaico
 
 * Ukrainian  : Leonid "Deburger" Androschuk
