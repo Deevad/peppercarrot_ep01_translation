@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2800"
    height="12658"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P01.svg"
@@ -77,8 +77,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34067204"
-     inkscape:cx="1480.4547"
-     inkscape:cy="334.0183"
+     inkscape:cx="1702.0755"
+     inkscape:cy="292.92306"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -106,13 +106,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Lludriga\Documents\pepper\peppercarrot_ep01_translation-master\peppercarrot_ep01_translation-master\dk\../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
+       sodipodi:absref="/home/deevad/Production/Webcomics/2014-05-04_ep01_Potion-of-flight/lang/dk/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
-       y="0"
-       x="0"
-       id="image3084"
+       width="2800"
        height="12658"
-       width="2800" />
+       id="image3084"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -482,7 +482,7 @@
            height="96.867355"
            x="2092.9219"
            y="12508.296" /></flowRegion><flowPara
-         id="flowPara3947">                                                                                              </flowPara></flowRoot>    <flowRoot
+         id="flowPara3947" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3949"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -492,17 +492,17 @@
            height="49.901367"
            x="2089.9866"
            y="12543.521" /></flowRegion><flowPara
-         id="flowPara3955"></flowPara></flowRoot>    <text
+         id="flowPara3955" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1355.7858"
-       y="12622.775"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1200.017"
+       y="12629.711"
        id="text3957"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3959"
-         x="1355.7858"
-         y="12622.775"
+         x="1200.017"
+         y="12629.711"
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -5.870749">Kunst &amp; script: David Revoy. Oversættelse: Marie Moestrup &amp; Juan José Segura</tspan></text>
   </g>
 </svg>
