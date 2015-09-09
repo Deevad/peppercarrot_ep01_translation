@@ -21,6 +21,8 @@ License
 
 * Chinese    : Ran Zhuang
 
+* Czech      : Martin Doucha
+
 * Dansk      : Marie Moestrup and Juan José Segura
 
 * Dutch      : Willem Sonke
