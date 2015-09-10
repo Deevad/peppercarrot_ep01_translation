@@ -47,7 +47,7 @@ License
 
 * Japanese   : guruguru
 
-* Polish     : Przemysław "Kev" Chudzia
+* Polish     : Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese : Frederico Batista
 
