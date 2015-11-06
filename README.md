@@ -53,6 +53,8 @@ License
 
 * Portuguese: Frederico Batista
 
+* Romanian: Costin-Sorin Ionescu
+
 * Russian: Andrew "Akari" Alexeyew
 
 * Sinhala: Tharinda Divakara
