@@ -39,11 +39,13 @@ License
 
 * German: Helmar Suschka / Alexandra Jordan
 
-* Indonesian: Bonaventura Aditya Perdana
-
 * Greek: Dimitris Axiotis
 
 * Hungarian: Halász Gábor "Hali"
+
+* Ido: William Johnsson
+
+* Indonesian: Bonaventura Aditya Perdana
 
 * Italian: Antonio Parisi
 
