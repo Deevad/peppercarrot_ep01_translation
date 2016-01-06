@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter4386">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4388" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="944"
+     inkscape:window-height="1012"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.25606623"
+     inkscape:cx="1240.5"
+     inkscape:cy="1751.5"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4282" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/uk/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       width="2481"
+       height="3503"
+       id="image3084"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="speechbubble"
+     style="opacity:0.70232556;display:inline;filter:url(#filter4386)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1740.0972,361.9239 c 5.4814,-42.3029 68.517,-82.0419 113.7383,-78.1962 45.2212,3.8457 117.8492,37.1752 108.2568,99.9885 -9.5924,62.8132 -97.2941,51.2762 -130.1823,47.4304 -32.8881,-3.8457 -90.4425,-21.7923 -91.8128,-69.2227 z"
+       id="path3113"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1812.7253,419.7096 c -5.4814,30.1475 0.6683,46.6253 0.6683,56.2177 0,9.5924 -11.6194,43.0645 -54.5857,49.8532 -27.4067,5.4813 -48.8582,25.1813 -51.5988,34.7737 24.6661,-23.2958 41.4444,-25.3008 63.3698,-25.3008 21.9254,0 57.2201,-15.8094 58.5904,-67.8823 1.3704,-52.073 1.3704,-80.8501 1.3704,-80.8501 z"
+       id="path3121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsscc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1221.8286,1381.7304 c 7.1108,-52.0044 100.9738,-110.3124 184.8817,-92.9776 83.9079,17.3348 155.0163,52.0045 160.7049,91.4017 5.6887,39.3973 -29.8655,130.799 -174.9266,115.04 -145.0611,-15.7588 -177.7709,-92.9775 -170.66,-113.4641 z"
+       id="path3129"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1350.2355,1446.3419 c 4.7277,66.1874 -96.1293,94.5535 -96.1293,124.4954 0,29.9419 9.4554,28.3661 9.4554,28.3661 0,0 -9.4554,-11.0313 1.5758,-29.942 11.0313,-18.9106 54.8249,-30.2397 86.674,-61.4597 39.82,-39.0336 53.5803,-72.491 53.5803,-72.491 z"
+       id="path3137"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="txt"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-8-6-1"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       transform="matrix(0.62578859,0,0,0.65468471,1628.9695,25.785695)"><flowRegion
+         id="flowRegion3065-8-1-1"><rect
+           id="rect3067-6-3-8"
+           width="526.9325"
+           height="288.6394"
+           x="92.642677"
+           y="425.30325"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3224-1">аx...</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3264">ідеально</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-8-6-1-9"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       transform="matrix(0.62578859,0,0,0.65468471,1141.9122,1045.8889)"><flowRegion
+         id="flowRegion3065-8-1-1-1"><rect
+           id="rect3067-6-3-8-9"
+           width="615.07123"
+           height="310.30325"
+           x="92.642677"
+           y="425.30325"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3449">НІ!</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara4240">Навіть не думай</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4133-6-9-4-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1"
+       transform="matrix(2.932991,-0.89229541,1.2365888,5.909351,-3159.4763,-2413.7338)"><flowRegion
+         id="flowRegion4135-2-9-3-5"
+         style="stroke-width:0.86646658"><rect
+           id="rect4137-1-7-1-2"
+           width="51.856533"
+           height="24.039366"
+           x="1125.3193"
+           y="1078.5308"
+           style="letter-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4139-2-8-6-8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.57521915px;line-height:125%;font-family:'Blogger Sans';-inkscape-font-specification:'Blogger Sans Italic';letter-spacing:0.49608082px;word-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
+   id="flowSpan4256"
+   style="font-size:6.61441088px;letter-spacing:0.49608082px">Х</flowSpan><flowSpan
+   id="flowSpan4258"
+   style="font-size:8.268013px;letter-spacing:0.49608082px">Л</flowSpan><flowSpan
+   style="font-size:9.92161655px;letter-spacing:0.49608082px"
+   id="flowSpan4246">Ю</flowSpan>П</flowPara></flowRoot>  </g>
+</svg>

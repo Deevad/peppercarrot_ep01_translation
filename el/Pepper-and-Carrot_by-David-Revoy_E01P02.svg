@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter4386">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4388" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3967"
+       x="-0.48296311"
+       width="1.9659262"
+       y="-0.6434356"
+       height="2.2868712">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="33.378222"
+         id="feGaussianBlur3969" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.2541779"
+     inkscape:cx="68.795381"
+     inkscape:cy="2403.8271"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4282" />
+  </sodipodi:namedview>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot2987"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52000046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(132.83989,-7223.9564)"><flowRegion
+       id="flowRegion2989"><rect
+         id="rect2991"
+         width="721.75812"
+         height="55.156185"
+         x="723.17682"
+         y="3883.7747"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+       id="flowPara2993" /></flowRoot>  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       width="2481"
+       height="3503"
+       id="image3084"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="speechbubble"
+     style="opacity:0.70232556;display:inline;filter:url(#filter4386)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1737.5564,369.71658 c 5.0464,-41.9195 63.08,-81.2983 104.7128,-77.4875 41.6328,3.8108 108.4976,36.8383 99.6664,99.0823 -8.8312,62.244 -89.5736,50.8115 -119.852,47.0005 -30.2784,-3.8108 -83.2656,-21.5947 -84.5272,-68.5953 z"
+       id="path3113"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1810.1845,422.31858 c -5.4815,30.1475 0.6683,46.6253 0.6683,56.2177 0,9.5924 -11.6194,43.0645 -54.5857,49.8532 -27.4068,5.4813 -48.8582,25.1813 -51.5989,34.7737 24.6661,-23.2958 41.4444,-25.3008 63.3699,-25.3008 21.9254,0 57.2201,-15.8094 58.5904,-67.8823 1.3704,-52.073 1.3704,-80.8501 1.3704,-80.8501 z"
+       id="path3121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsscc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1242.1069,1386.6126 c 6.2781,-50.9788 89.15,-108.1369 163.2324,-91.144 74.0824,16.9929 136.8641,50.9789 141.8866,89.5992 5.0226,38.6203 -26.3682,128.2196 -154.4429,112.7714 -128.0747,-15.4481 -156.9543,-91.144 -150.6761,-111.2266 z"
+       id="path3129"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1347.6947,1448.9509 c 4.7277,66.1874 -96.1293,94.5535 -96.1293,124.4954 0,29.9419 9.4554,28.3661 9.4554,28.3661 0,0 -9.4554,-11.0313 1.5758,-29.942 11.0313,-18.9106 54.8248,-30.2397 86.674,-61.4597 39.82,-39.0336 53.5803,-72.491 53.5803,-72.491 z"
+       id="path3137"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsscc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3115"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
+         id="flowRegion3117"><rect
+           id="rect3119"
+           width="639.91162"
+           height="234.82996"
+           x="419.75854"
+           y="1171.8798" /></flowRegion><flowPara
+         id="flowPara3121" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1775.4821"
+       y="329.02603"
+       id="text3937"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3939"
+         x="1775.4821"
+         y="329.02603" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c4036;fill-opacity:1;stroke:none;filter:url(#filter3967)"
+       x="2233.8201"
+       y="5642.4551"
+       id="text3941"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><tspan
+         sodipodi:role="line"
+         id="tspan3943"
+         x="2233.8201"
+         y="5642.4551"
+         style="opacity:0.60912057">Αχά...</tspan><tspan
+         sodipodi:role="line"
+         x="2233.8201"
+         y="5717.4551"
+         id="tspan3945"
+         style="opacity:0.60912057">τέλεια</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1930.7604"
+       y="162.96986"
+       id="text3971"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3973"
+         x="1930.7604"
+         y="162.96986" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="txt"
+     style="display:inline;opacity:1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4133-6-9-4-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(2.9043007,-0.98166439,1.4169112,5.8687259,-3362.3571,-2290.2389)"><flowRegion
+         id="flowRegion4135-2-9-3-5"
+         style="stroke-width:0.86646658"><rect
+           id="rect4137-1-7-1-2"
+           width="92.762215"
+           height="30.001579"
+           x="1125.3193"
+           y="1078.5308"
+           style="letter-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara4139-2-8-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.15563583px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;letter-spacing:0.00204969px;word-spacing:0.00204969px;writing-mode:lr-tb;text-anchor:start;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93729305px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowSpan4001">Μ</flowSpan><flowSpan
+           id="flowSpan4015"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26017475px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Π</flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9059391px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none"
+           id="flowSpan3995">Λ</flowSpan><flowSpan
+           id="flowSpan4021"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.22882175px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Ο</flowSpan><flowSpan
+           id="flowSpan4019"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.88242435px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Υ</flowSpan><flowSpan
+           id="flowSpan4017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3706665px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Μ</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3913"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
+         id="flowRegion3915"><rect
+           id="rect3917"
+           width="512.22278"
+           height="218.68506"
+           x="1203.5035"
+           y="2277.0483" /></flowRegion><flowPara
+         id="flowPara3919" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3921"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
+         id="flowRegion3923"><rect
+           id="rect3925"
+           width="290.60208"
+           height="211.34695"
+           x="1458.8811"
+           y="2326.9497" /></flowRegion><flowPara
+         id="flowPara3927" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3929"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
+         id="flowRegion3931"><rect
+           id="rect3933"
+           width="579.73645"
+           height="306.74643"
+           x="1169.7467"
+           y="2233.0178" /></flowRegion><flowPara
+         id="flowPara3935" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c4036;fill-opacity:1;stroke:none"
+       x="1841.6018"
+       y="354.54996"
+       id="text3975"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3977"
+         x="1841.6018"
+         y="354.54996">Αχά...</tspan><tspan
+         sodipodi:role="line"
+         x="1841.6018"
+         y="407.79996"
+         id="tspan3979">τέλεια</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1394.0889"
+       y="1350.2429"
+       id="text3981"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3983"
+         x="1394.0889"
+         y="1350.2429"
+         style="fill:#3c4036;fill-opacity:1">ΟΧΙ!</tspan><tspan
+         sodipodi:role="line"
+         x="1394.0889"
+         y="1403.4929"
+         id="tspan3985"
+         style="fill:#3c4036;fill-opacity:1">Ούτε να το</tspan><tspan
+         sodipodi:role="line"
+         x="1394.0889"
+         y="1456.7429"
+         id="tspan3987"
+         style="fill:#3c4036;fill-opacity:1">σκεύτεσαι</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="538.85779"
+       y="3967.3074"
+       id="text4023"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4025"
+         x="538.85779"
+         y="3967.3074" /></text>
+  </g>
+</svg>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter4386">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4388" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.25606623"
+     inkscape:cx="1240.5"
+     inkscape:cy="1751.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4282" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/si/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       width="2481"
+       height="3503"
+       id="image3084"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="speechbubble"
+     style="opacity:0.70232556;display:inline;filter:url(#filter4386)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1723.8455,358.63845 c 6.2063,-45.2213 77.5786,-87.7018 128.7806,-83.5908 51.2018,4.111 133.4352,39.7399 122.5742,106.8865 -10.8609,67.1467 -110.1617,54.8136 -147.3994,50.7026 -37.2378,-4.1111 -102.4039,-23.2958 -103.9554,-73.9983 z"
+       id="path3113"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1815.6315,411.01175 c -5.4814,30.1475 0.6684,46.6253 0.6684,56.2177 0,9.5924 -11.6194,43.0645 -54.5857,49.8532 -27.4068,5.4813 -48.8582,25.1813 -51.5989,34.7737 24.6661,-23.2958 41.4444,-25.3008 63.3698,-25.3008 21.9255,0 57.2202,-15.8094 58.5905,-67.8823 1.3703,-52.073 1.3703,-80.8501 1.3703,-80.8501 z"
+       id="path3121"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsscc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1208.1598,1373.0325 c 7.8794,-52.0044 111.8882,-110.3124 204.8658,-92.9776 92.9776,17.3348 171.7721,52.0045 178.0757,91.4017 6.3036,39.3973 -33.0937,130.799 -193.8346,115.04 -160.7409,-15.7588 -196.9864,-92.9775 -189.1069,-113.4641 z"
+       id="path3129"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1353.1418,1437.644 c 4.7277,66.1874 -96.1293,94.5535 -96.1293,124.4954 0,29.9419 9.4553,28.3661 9.4553,28.3661 0,0 -9.4553,-11.0313 1.5759,-29.942 11.0312,-18.9106 54.8248,-30.2397 86.6739,-61.4597 39.8201,-39.0336 53.5804,-72.491 53.5804,-72.491 z"
+       id="path3137"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscsscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="txt"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-8-6-1"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       transform="matrix(0.62578859,0,0,0.65468471,1631.8758,17.556268)"><flowRegion
+         id="flowRegion3065-8-1-1"><rect
+           id="rect3067-6-3-8"
+           width="526.9325"
+           height="288.6394"
+           x="92.642677"
+           y="425.30325"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.07581329px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3264">හා...</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.07581329px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3629">අංගසම්පූර්ණයි</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-8-6-1-9"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       transform="matrix(0.62578859,0,0,0.65468471,1143.3984,1028.671)"><flowRegion
+         id="flowRegion3065-8-1-1-1"><rect
+           id="rect3067-6-3-8-9"
+           width="615.07123"
+           height="310.30325"
+           x="92.642677"
+           y="425.30325"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.84893036px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3300">බෑ!</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.84893036px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3636">ඒ ගැන හිතන්නවත් </flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56.84893036px;font-family:BhashitaComplex;-inkscape-font-specification:'BhashitaComplex Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3638">එපා</flowPara></flowRoot>    <path
+       style="fill:#d9a73c;fill-opacity:1"
+       d="m 1509.481,3055.5196 c -3.5614,-1.925 -5.5941,-4.517 -7.3843,-9.418 -2.8116,-7.697 -3.4011,-20.272 -1.532,-32.678 1.319,-8.755 6.3921,-19.823 10.6727,-23.284 5.039,-4.076 11.3608,-4.07 15.3276,0.01 3.3943,3.494 5.5067,12.178 5.0615,20.807 -0.4045,7.841 -2.0592,13.319 -5.7862,19.156 -2.3682,3.71 -4.7092,5.945 -7.2682,6.939 -2.9218,1.135 -5.0452,0.404 -6.9144,-2.382 -3.349,-4.991 -3.0341,-10.753 0.9087,-16.629 1.6079,-2.397 1.5048,-2.613 -0.5741,-1.207 -0.7863,0.533 -1.8337,0.778 -2.3687,0.556 -1.2253,-0.509 -2.445,-4.269 -2.0509,-6.324 0.4535,-2.364 2.5871,-4.225 2.5871,-2.256 0,1.37 1.38,1.11 3.7587,-0.708 1.1628,-0.889 3.3147,-2.519 4.7819,-3.623 l 2.6678,-2.008 0.2997,2.555 c 0.1648,1.405 0.4042,3.385 0.5319,4.399 0.2055,1.633 0.029,1.985 -1.5455,3.074 -4.2246,2.922 -6.2661,6.491 -6.2661,10.952 0,3.141 1.4946,5.612 3.7941,6.273 4.3144,1.24 8.3139,-9.012 7.8646,-20.159 -0.218,-5.408 -1.7522,-10.985 -3.8161,-13.874 -4.3918,-6.147 -10.7685,-2.819 -14.4786,7.557 -2.4143,6.751 -3.3218,12.651 -3.3621,21.855 -0.039,8.911 0.4983,12.537 2.8068,18.939 1.598,4.431 5.1148,8.112 7.7498,8.112 4.1711,0 5.8499,-2.119 10.5182,-13.277 l 2.7368,-6.541 1.0601,1.74 c 0.5831,0.957 1.4159,2.604 1.8507,3.66 0.7863,1.911 0.7797,1.946 -1.2237,6.479 -3.8175,8.638 -7.9661,12.361 -14.091,12.647 -2.8621,0.133 -4.0482,-0.119 -6.3168,-1.345 z m 71.3882,-13.259 c -10.8206,-1.039 -15.3383,-2.921 -18.568,-7.734 -3.2022,-4.773 -2.4294,-8.256 3.4386,-15.497 15.1959,-18.752 16.6999,-21.02 16.0145,-24.147 -0.2327,-1.062 -0.9522,-2.447 -1.5992,-3.079 -1.078,-1.054 -1.5675,-1.096 -5.8689,-0.504 -5.0862,0.699 -7.8482,0.39 -8.7134,-0.974 -0.8512,-1.342 -0.1472,-5.636 1.6061,-9.795 1.6922,-4.013 2.6577,-4.881 6.061,-5.447 l 2.2372,-0.372 -0.7739,1.546 c -0.4256,0.85 -0.6608,1.693 -0.5226,1.874 0.1382,0.181 2.9682,0.458 6.2888,0.615 3.3208,0.158 6.6873,0.56 7.4812,0.894 3.3164,1.393 6.6436,8.466 6.0706,12.905 -0.4248,3.289 -3.3164,8.941 -6.3792,12.468 -1.3993,1.611 -5.3499,5.44 -8.7791,8.509 -6.3145,5.651 -8.2297,7.948 -7.8121,9.373 0.6479,2.209 6.6363,4.995 12.6374,5.88 8.8251,1.3 15.5986,0.518 19.9678,-2.307 3.2875,-2.126 4.6983,-4.774 4.6983,-8.819 0,-3.515 -1.7622,-10.989 -2.591,-10.989 -0.3187,0 -1.6092,0.753 -2.8677,1.674 -1.2586,0.92 -4.3793,3.064 -6.935,4.764 -6.0029,3.994 -5.9341,4.826 0.3154,3.82 l 2.7215,-0.438 -0.1374,4.773 -0.1374,4.774 -2.5376,0.189 c -6.8472,0.51 -14.5683,-2.341 -15.5573,-5.745 -0.9575,-3.296 1.1975,-6.356 8.2286,-11.684 6.4168,-4.863 12.0028,-9.469 13.266,-10.94 0.8648,-1.006 1.0003,-1.634 0.7659,-3.553 -0.1567,-1.282 -0.1467,-3.295 0.022,-4.473 0.4246,-2.962 3.7923,-9.361 6.0556,-11.506 1.812,-1.718 1.8343,-1.781 0.6333,-1.781 -1.0715,0 -1.245,-0.258 -1.245,-1.853 0,-2.137 2.7752,-20.086 4.2289,-27.351 3,-14.992 5.9697,-25.68 8.1198,-29.223 0.4208,-0.693 13.3049,-9.502 16.9232,-11.57 0.2077,-0.119 -0.6443,1.126 -1.8935,2.767 -3.5697,4.687 -7.8816,16.84 -11.6388,32.801 -1.8714,7.949 -5.9087,29.054 -5.6284,29.421 0.1473,0.193 0.6781,0.02 1.1797,-0.395 1.3765,-1.125 2.9667,-0.907 5.9385,0.813 1.4803,0.856 2.7617,1.649 2.8474,1.761 0.1907,0.25 -4.6696,11.371 -6.5304,14.944 -0.7407,1.422 -2.8295,4.181 -4.6417,6.132 -3.8161,4.108 -3.7439,3.097 -1.0018,14.031 2.0754,8.276 2.3718,15.517 0.8045,19.653 -2.1026,5.55 -7.3095,9.938 -14.5803,12.288 -2.901,0.938 -13.4257,2.286 -15.9742,2.047 -0.5168,-0.05 -3.054,-0.291 -5.638,-0.54 z m -41.345,-2.529 c -0.7753,-0.355 -2.1232,-1.025 -2.9955,-1.489 l -1.586,-0.843 3.2497,-4.477 c 5.8009,-7.991 11.9675,-21.358 13.5573,-29.386 1.5816,-7.987 -0.7781,-14.091 -5.4475,-14.091 -1.8624,0 -5.0961,4.222 -6.2396,8.147 l -0.8511,2.92 -2.5541,0 c -2.5469,0 -2.5533,0 -2.2499,-1.691 0.6371,-3.54 3.4674,-7.898 7.86,-12.1 3.763,-3.6 9.2192,-5.047 11.9623,-3.171 6.3958,4.372 7.1607,17.023 1.8606,30.776 -3.2114,8.334 -8.043,17.498 -12.2457,23.228 -2.3188,3.162 -2.2496,3.127 -4.3205,2.177 z m -55.205,-3.913 c -0.3877,-0.1 -1.5094,-0.352 -2.4928,-0.563 -2.7813,-0.595 -3.615,-2.1 -3.615,-6.525 l 0,-3.753 -1.6608,1.908 c -2.2994,2.642 -3.0376,2.503 -3.0376,-0.571 0,-4.107 2.0361,-9.202 3.6771,-9.202 0.3917,0 1.0747,0.429 1.5176,0.953 0.7383,0.875 0.9219,0.769 2.21,-1.276 1.911,-3.034 3.8713,-8.245 3.8713,-10.292 0,-0.925 -0.409,-2.217 -0.909,-2.871 -0.7579,-0.992 -1.3388,-1.131 -3.4988,-0.839 -2.5021,0.338 -2.6007,0.294 -2.9026,-1.28 -0.4856,-2.532 1.1895,-8.634 2.4334,-8.866 0.6795,-0.127 1.0759,0.215 1.248,1.076 0.2017,1.009 0.6312,1.262 2.1449,1.262 1.041,0 2.4447,0.274 3.1193,0.61 1.5295,0.761 3.0386,4.901 3.0528,8.375 0.014,3.523 -2.7372,10.468 -5.942,14.998 l -2.5804,3.647 1.0368,2.414 c 1.7425,4.057 4.2223,4.794 7.3113,2.173 3.9493,-3.351 6.0168,-10.557 5.9804,-20.843 -0.026,-7.194 -1.1416,-11.889 -3.6548,-15.376 -1.9209,-2.665 -3.7401,-2.794 -8.4837,-0.599 -3.8273,1.77 -6.1138,1.964 -6.5274,0.554 -0.1569,-0.535 -0.2852,-2.075 -0.2852,-3.423 0,-2.145 0.1136,-2.403 0.9111,-2.072 1.233,0.512 1.7289,-0.914 2.0267,-5.829 0.1333,-2.198 0.5086,-4.747 0.8342,-5.665 0.81,-2.283 3.5643,-4.644 6.01,-5.151 2.3378,-0.485 11.8303,0.888 11.8303,1.712 0,0.302 -0.3701,2.198 -0.8223,4.211 -0.9721,4.329 -1.4413,4.503 -5.7554,2.126 -5.1314,-2.826 -9.0054,-1.468 -9.6308,3.377 -0.1809,1.401 -0.2492,2.652 -0.1516,2.779 0.098,0.128 1.0171,-0.05 2.0434,-0.39 5.4841,-1.827 7.4183,-1.762 9.8602,0.332 2.7418,2.351 4.4565,9.993 4.4565,19.864 0,9.173 -2.4778,21.596 -5.54,27.776 -1.5922,3.213 -5.669,5.855 -8.0851,5.239 z"
+       id="path3651"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

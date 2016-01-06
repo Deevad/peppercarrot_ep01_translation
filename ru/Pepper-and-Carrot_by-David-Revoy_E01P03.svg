@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P03.svg"
+   enable-background="new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       id="filter4386">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4388" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="1059"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.25606623"
+     inkscape:cx="1240.5"
+     inkscape:cy="1751.5"
+     inkscape:window-x="1680"
+     inkscape:window-y="19"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4282" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="artwork"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P03.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P03.png"
+       width="2481"
+       height="3503"
+       id="image3084"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="speechbubble"
+     style="opacity:0.70232556;display:inline;filter:url(#filter4386)">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 746.62599,1453.4644 c -1.4865,-38.148 71.35205,-50.069 90.67658,-52.453 19.32451,-2.385 194.73173,8.344 202.16423,45.301 7.4324,36.955 -84.73061,57.222 -173.92072,50.068 -89.19007,-7.153 -120.40659,-27.418 -118.92009,-42.916 z"
+       id="path3145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 886.98575,1494.2874 c 40.88204,34.217 -63.27681,105.761 -60.94617,132.634 0.78205,9.018 4.05264,27.784 12.10535,34.422 13.5869,11.2 39.38547,4.716 9.44354,96.118 -7.87946,20.486 26.10885,43.059 59.20256,41.482 12.60716,1.577 32.19916,15.25 3.83306,73.558 -4.72765,17.334 7.7905,38.331 25.5994,42.164 9.4554,1.575 27.9809,14.568 23.2533,35.055 6.3035,-33.094 -27.5544,-48.13 -33.3485,-56.691 -6.3035,-11.031 8.7586,-45.6 15.0622,-67.663 6.3036,-22.062 -26.3222,-39.471 -37.35341,-44.199 -11.03124,-4.728 -29.68489,-4.051 -32.83667,-16.658 -3.15178,-12.607 18.36763,-58.409 15.21585,-82.048 -3.15178,-23.638 -31.01876,-28.959 -32.59465,-51.022 -1.57589,-22.062 56.83918,-69.737 66.26198,-93.238 11.6711,-24.83 4.9236,-56.521 4.9236,-56.521 z"
+       id="path3153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccccccsscssccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="txt"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-8-6-1-9-6"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       transform="matrix(0.62578859,0,0,0.65468471,635.65549,1146.9994)"><flowRegion
+         id="flowRegion3065-8-1-1-1-9"><rect
+           id="rect3067-6-3-8-9-8"
+           width="615.07123"
+           height="310.30325"
+           x="92.642677"
+           y="425.30325"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         id="flowPara3300-4">Доволен?!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063-8-6-1-9-0"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.34883722;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.16507292;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="matrix(0.3931901,0,-0.11464216,0.86351947,1675.7845,2416.1649)"><flowRegion
+         id="flowRegion3065-8-1-1-1-7"
+         style="stroke-width:2.16507292"><rect
+           id="rect3067-6-3-8-9-84"
+           width="615.07123"
+           height="310.30325"
+           x="92.642677"
+           y="425.30325"
+           style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.16507292;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.05892754px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:7.18542147px;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowPara3300-48">WWW.PEPPERCARROT.COM</flowPara><flowPara
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.05892754px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:7.18542147px;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="flowPara4439">05/2014</flowPara></flowRoot>  </g>
+</svg>
