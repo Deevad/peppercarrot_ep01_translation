@@ -5,9 +5,7 @@
 
 ![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E01.png)
 
-Note for compilation : 
-
-- before refactoring of 7 january 2016 use 2016-01-08_ep01_Potion-of-Flight.zip to compile the episode.
+2016-01-08 : To compile this episode before the 2016 refactoring, you'll need 2016-01-08_ep01_Potion-of-Flight.zip ( available in /src folder).
 
 
 License
@@ -81,8 +79,7 @@ License
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
 
 
-Downloads
-=========
+## Downloads
 
 To download ready to use pages, higher resolutions and more visit:
 
@@ -99,7 +96,7 @@ This folder contains all ready to use built pages in all available language :
 
 * Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
 
-* Krita original sources files (zip folder, zipped *.kra files) 
+* Krita original sources files (zip folder, zipped kra files) 
 
 
 ## Info:
