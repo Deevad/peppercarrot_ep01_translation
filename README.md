@@ -53,6 +53,8 @@ License
 
 * Japanese: guruguru
 
+* Latin: Guillaume Lestringant
+
 * Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese: Frederico Batista
