@@ -53,6 +53,8 @@ License
 
 * Japanese: guruguru
 
+* Korean: Shikamaru "initbar" Yamamoto
+
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna

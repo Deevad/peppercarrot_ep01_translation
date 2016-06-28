@@ -104,36 +104,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45190111"
-     inkscape:cx="446.7503"
-     inkscape:cy="232.08738"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.90380221"
+     inkscape:cx="567.9388"
+     inkscape:cy="382.04354"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
-     sodipodi:insensitive="true"
-     style="display:inline" />
+     sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="F:\peppercarrot_ep01_translation\jbo\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
+     sodipodi:absref="/tmp/sandbox/peppercarrot_ep01_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="txt"
-     style="display:inline">
+     inkscape:label="txt">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987"
@@ -147,5 +145,5 @@
            y="644.36664"
            style="fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">1 moi pagbu fa lu lo litki be do'e lo nu vofli li'u</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.8433075px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"> 제 1화: 비행의 물약</flowPara></flowRoot>  </g>
 </svg>
