@@ -1,11 +1,11 @@
-﻿# Pepper&Carrot translation project
-# Episode 01: Potion of Flight
+# Pepper&Carrot translation project
+# Episode 03: The secret ingredient
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
-![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E01.png)
+![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E03.png)
 
-2016-01-08: To compile this episode before the 2016 refactoring, you'll need older Krita sources files in 2016-01-08_ep01_Potion-of-Flight.zip (available in /src folder of the episode [http://www.peppercarrot.com/0_sources/](http://www.peppercarrot.com/0_sources/)).
+2016-01-08: To compile this episode before the 2016 refactoring, you'll need older Krita sources files in 2016-01-08_ep03_Potion-of-Flight.zip (available in /src folder of the episode [http://www.peppercarrot.com/0_sources/](http://www.peppercarrot.com/0_sources/)). It's a patch for previous page 2 geometry.
 
 
 License
@@ -21,19 +21,19 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Ran Zhuang
 
 * Czech: Martin Doucha
 
-* Dansk: Marie Moestrup and Juan José Segura
+* Dansk: Marie Moestrup og Juan Jos? Segura
 
 * Dutch: Willem Sonke
 
-* English: David Revoy
+* English: David Revoy, Amireti
 
-* Esperanto: Libre fan (librefan.eu.org)
+* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
 * Finnish: Kari Lehto
 
@@ -41,35 +41,31 @@ License
 
 * German: Helmar Suschka / Alexandra Jordan
 
-* Greek: Dimitris Axiotis
+* Greek: Dimitris Axiotis / George Karettas
 
-* Hungarian: Halász Gábor "Hali"
-
-* Ido: William Johnsson
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Italian: Antonio Parisi
+* Italian: Carlo Gandolfi
 
 * Japanese: guruguru
-
-* Korean: Shikamaru "initbar" Yamamoto
 
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna
 
-* Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
+* Polish: Przemys?aw "Kev" Chudzia, S?lve Svartskogen
 
 * Portuguese: Frederico Batista
 
 * Romanian: Costin-Sorin Ionescu
 
-* Russian: Andrew "Akari" Alexeyew
+* Russian: Denis "uncle Night" Prisukhin
 
 * Sinhala: Tharinda Divakara
 
-* Slovak: Talime
+* Slovak: talime
 
 * Spanish: TheFaico
 
@@ -85,7 +81,7 @@ License
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
 
 
-## Downloads
+## Downloads:
 
 To download ready to use pages, higher resolutions and more visit:
 

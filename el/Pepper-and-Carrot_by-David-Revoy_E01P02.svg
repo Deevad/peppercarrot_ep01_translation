@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
@@ -62,15 +62,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2541779"
-     inkscape:cx="68.795381"
-     inkscape:cy="2403.8271"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:zoom="0.5083558"
+     inkscape:cx="1227.112"
+     inkscape:cy="495.27246"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -97,8 +97,8 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       sodipodi:absref="G:\Pepper And Carrot\Translation\peppercarrot_ep01_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        width="2481"
        height="3503"
        id="image3084"
@@ -195,7 +195,7 @@
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(2.9043007,-0.98166439,1.4169112,5.8687259,-3362.3571,-2290.2389)"><flowRegion
+       transform="matrix(4.26975,-1.1620565,2.0830683,6.9471716,-5622.5411,-3246.6132)"><flowRegion
          id="flowRegion4135-2-9-3-5"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2"
@@ -205,19 +205,19 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.15563583px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;letter-spacing:0.00204969px;word-spacing:0.00204969px;writing-mode:lr-tb;text-anchor:start;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.93729305px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:11.15563583px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;letter-spacing:0.00204969px;word-spacing:0.00204969px;writing-mode:lr-tb;text-anchor:start;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:7.93729305px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none"
            id="flowSpan4001">Μ</flowSpan><flowSpan
            id="flowSpan4015"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26017475px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Π</flowSpan><flowSpan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9059391px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:9.26017475px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Π</flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:11.9059391px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none"
            id="flowSpan3995">Λ</flowSpan><flowSpan
            id="flowSpan4021"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.22882175px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Ο</flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:13.22882175px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Ο</flowSpan><flowSpan
            id="flowSpan4019"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.88242435px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Υ</flowSpan><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:14.88242435px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Υ</flowSpan><flowSpan
            id="flowSpan4017"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3706665px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Μ</flowSpan></flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:16.3706665px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Μ</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3913"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -286,7 +286,7 @@
          x="1394.0889"
          y="1456.7429"
          id="tspan3987"
-         style="fill:#3c4036;fill-opacity:1">σκεύτεσαι</tspan></text>
+         style="fill:#3c4036;fill-opacity:1">σκέφτεσαι</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
