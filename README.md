@@ -1,11 +1,11 @@
-# Pepper&Carrot translation project
-# Episode 03: The secret ingredient
+﻿# Pepper&Carrot translation project
+# Episode 01: Potion of Flight
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
-![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E03.png)
+![alt tag](gfx_Pepper-and-Carrot_by-David-Revoy_E01.png)
 
-2016-01-08: To compile this episode before the 2016 refactoring, you'll need older Krita sources files in 2016-01-08_ep03_Potion-of-Flight.zip (available in /src folder of the episode [http://www.peppercarrot.com/0_sources/](http://www.peppercarrot.com/0_sources/)). It's a patch for previous page 2 geometry.
+2016-01-08: To compile this episode before the 2016 refactoring, you'll need older Krita sources files in 2016-01-08_ep01_Potion-of-Flight.zip (available in /src folder of the episode [http://www.peppercarrot.com/0_sources/](http://www.peppercarrot.com/0_sources/)).
 
 
 License
@@ -21,19 +21,19 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan Jos? Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
 * Czech: Martin Doucha
 
-* Dansk: Marie Moestrup og Juan Jos? Segura
+* Dansk: Marie Moestrup and Juan José Segura
 
 * Dutch: Willem Sonke
 
-* English: David Revoy, Amireti
+* English: David Revoy
 
-* Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
+* Esperanto: Libre fan (librefan.eu.org)
 
 * Finnish: Kari Lehto
 
@@ -43,29 +43,33 @@ License
 
 * Greek: Dimitris Axiotis / George Karettas
 
-* Hungarian: Hal?sz G?bor "Hali"
+* Hungarian: Halász Gábor "Hali"
+
+* Ido: William Johnsson
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Italian: Carlo Gandolfi
+* Italian: Antonio Parisi
 
 * Japanese: guruguru
+
+* Korean: Shikamaru "initbar" Yamamoto
 
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna
 
-* Polish: Przemys?aw "Kev" Chudzia, S?lve Svartskogen
+* Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese: Frederico Batista
 
 * Romanian: Costin-Sorin Ionescu
 
-* Russian: Denis "uncle Night" Prisukhin
+* Russian: Andrew "Akari" Alexeyew
 
 * Sinhala: Tharinda Divakara
 
-* Slovak: talime
+* Slovak: Talime
 
 * Spanish: TheFaico
 
@@ -81,7 +85,7 @@ License
 * David Revoy, [www.peppercarrot.com](www.peppercarrot.com)
 
 
-## Downloads:
+## Downloads
 
 To download ready to use pages, higher resolutions and more visit:
 
