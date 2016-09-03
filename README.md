@@ -59,6 +59,8 @@ License
 
 * Lojban: Gleki Arxokuna
 
+* Norwegian: Thomas Nordstrøm
+
 * Polish: Przemysław "Kev" Chudzia, Sölve Svartskogen
 
 * Portuguese: Frederico Batista
