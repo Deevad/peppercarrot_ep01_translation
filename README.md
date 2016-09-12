@@ -69,6 +69,8 @@ License
 
 * Russian: Andrew "Akari" Alexeyew
 
+* Silesian: Grzegorz Kulik
+
 * Sinhala: Tharinda Divakara
 
 * Slovak: Talime
