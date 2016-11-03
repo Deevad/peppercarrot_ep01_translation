@@ -55,6 +55,8 @@ License
 
 * Korean: Shikamaru "initbar" Yamamoto
 
+* Kotava: Erwhann-Rouge / webmistusik
+
 * Latin: Guillaume Lestringant
 
 * Lojban: Gleki Arxokuna
