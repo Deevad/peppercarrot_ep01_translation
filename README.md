@@ -55,7 +55,7 @@ License
 
 * Japanese: guruguru
 
-* Korean: Shikamaru "initbar" Yamamoto
+* Korean: Shikamaru "initbar" Yamamoto, Jihoon Kim
 
 * Kotava: Erwhann-Rouge / webmistusik
 
