@@ -108,9 +108,9 @@
      inkscape:window-height="847"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="562.66306"
-     inkscape:cy="255.23245"
+     inkscape:zoom="0.90380221"
+     inkscape:cx="531.62675"
+     inkscape:cy="337.78607"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -127,9 +127,7 @@
      x="2.2128735"
      id="image10"
      height="765"
-     id="image10"
-     x="2.2128735"
-     y="1.1064367" />
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -147,5 +145,5 @@
            y="644.36664"
            style="font-size:100.396492px;fill:#301b0b;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara2993"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.05413818px;font-family:ZahraRoosta;-inkscape-font-specification:'ZahraRoosta Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">قسمت اول: معجون پرواز</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.396492px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">قسمت1: معجون پرواز</flowPara></flowRoot>  </g>
 </svg>
