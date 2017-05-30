@@ -55,7 +55,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.48451887"
-     inkscape:cx="1281.0021"
+     inkscape:cx="950.7776"
      inkscape:cy="459.27665"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
@@ -87,11 +87,11 @@
     <image
        sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 1\peppercarrot_ep01_translation-master\peppercarrot_ep01_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
-       width="2481"
-       height="663"
-       id="image3084"
+       y="0"
        x="0"
-       y="0" />
+       id="image3084"
+       height="663"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -107,7 +107,7 @@
        xml:space="preserve"
        id="flowRoot3063"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.30632019px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2a5953;fill-opacity:1;stroke:none"
-       transform="matrix(0.78765954,0,0,0.78765954,123.9083,202.42256)"><flowRegion
+       transform="matrix(0.78765954,0,0,0.78765954,123.9083,182.42256)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
            width="2752.6455"
@@ -116,11 +116,11 @@
            y="367.86551"
            style="font-size:133.30632019px;fill:#2a5953;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.30632019px;font-family:ZahraRoosta;-inkscape-font-specification:'ZahraRoosta Bold';text-align:center;text-anchor:middle;fill:#2a5953;fill-opacity:1">قسمت اول: معجون پرواز</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.30632019px;font-family:'XP Ziba';-inkscape-font-specification:'XP Ziba Bold';text-align:center;text-anchor:middle;fill:#2a5953;fill-opacity:1">قسمت اول: معجون پرواز</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3371"
        style="font-style:normal;font-weight:normal;font-size:375px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2a5953;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(140.10239,20.431598)"><flowRegion
+       transform="translate(140.10239,56.431598)"><flowRegion
          id="flowRegion3373"><rect
            id="rect3375"
            width="1548.4232"
@@ -129,5 +129,5 @@
            y="-5.405139"
            style="font-size:375px;fill:#2a5953;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3377"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:375px;font-family:ZahraRoosta;-inkscape-font-specification:'ZahraRoosta Bold';fill:#2a5953;fill-opacity:1">فلفل و هویج</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:325px;font-family:'XP Ziba';-inkscape-font-specification:'XP Ziba Bold';fill:#2a5953;fill-opacity:1">فلفل و هویج</flowPara></flowRoot>  </g>
 </svg>
