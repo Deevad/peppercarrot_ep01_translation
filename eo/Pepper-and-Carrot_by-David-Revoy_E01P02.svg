@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.0 r15299"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
@@ -50,16 +50,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1345"
-     inkscape:window-height="982"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.19478035"
-     inkscape:cx="-337.13419"
-     inkscape:cy="1887.4003"
-     inkscape:window-x="422"
-     inkscape:window-y="91"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.55092202"
+     inkscape:cx="979.26544"
+     inkscape:cy="555.43418"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -85,13 +85,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/eo/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       sodipodi:absref="C:\Users\Gebruiker\Downloads\peppercarrot_ep01_translation-master\eo\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
-       width="2481"
-       height="3503"
-       id="image3084"
+       y="0"
        x="0"
-       y="0" />
+       id="image3084"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,8 +111,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsscc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1203.7741,1375.6139 c 8.1022,-53.7879 115.0518,-114.0956 210.6583,-96.1663 95.6064,17.9293 176.6289,53.788 183.1106,94.5365 6.4819,40.7484 -34.0294,135.2849 -199.3151,118.9855 -165.2857,-16.2994 -202.556,-96.1664 -194.4538,-117.3557 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.87777907px;marker:none;enable-background:accumulate"
+       d="m 1248.9156,1375.6139 c 6.2427,-53.7879 88.647,-114.0956 162.3114,-96.1663 73.6644,17.9293 136.0919,53.788 141.086,94.5365 4.9943,40.7484 -26.2195,135.2849 -153.5715,118.9855 -127.352,-16.2994 -156.0686,-96.1664 -149.8259,-117.3557 z"
        id="path3129"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -132,7 +132,7 @@
        xml:space="preserve"
        id="flowRoot3063-8-6-1"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       transform="matrix(0.62578859,0,0,0.65468471,1632.8985,30.871773)"><flowRegion
+       transform="matrix(0.62578859,0,0,0.65468471,1632.8985,16.871773)"><flowRegion
          id="flowRegion3065-8-1-1"><rect
            id="rect3067-6-3-8"
            width="526.9325"
@@ -141,13 +141,13 @@
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3224-1">Ha ...</flowPara><flowPara
+         id="flowPara3224-1">ha...</flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3264">perfekta!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3264">perfekte!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1-9"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       transform="matrix(0.62578859,0,0,0.65468471,1155.2948,1034.1782)"><flowRegion
+       transform="matrix(0.62578859,0,0,0.65468471,1148.0342,1021.4722)"><flowRegion
          id="flowRegion3065-8-1-1-1"><rect
            id="rect3067-6-3-8-9"
            width="615.07123"
@@ -158,7 +158,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3264-9">NE!</flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3300">Ne eĉ pensu </flowPara><flowPara
+         id="flowPara3300">Eĉ ne pensu </flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3086">pri tio</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -175,10 +175,10 @@
            style="letter-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
-   style="font-size:7.81850576px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-opacity:1"
+   style="font-size:8.07392864px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-opacity:1;line-height:125%;letter-spacing:0.46580358px"
    id="flowSpan4267">P</flowSpan><flowSpan
    style="font-size:9.90925312px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-opacity:1"
-   id="flowSpan4271">PL</flowSpan>O<flowSpan
+   id="flowSpan4271">L</flowSpan>O<flowSpan
    style="font-size:13.67259789px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-opacity:1"
    id="flowSpan4273">N</flowSpan><flowSpan
    id="flowSpan4277"

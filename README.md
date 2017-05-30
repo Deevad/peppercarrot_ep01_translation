@@ -27,13 +27,13 @@ License
 
 * Czech: Martin Doucha
 
-* Dansk: Marie Moestrup and Juan José Segura
+* Dansk: Marie Moestrup and Juan José Segura; rettelser: [Alexandre](https://github.com/Alkarex) og [Emmiline](https://github.com/Emmilinette) Alapetite
 
 * Dutch: Willem Sonke
 
 * English: David Revoy
 
-* Esperanto: Libre fan (librefan.eu.org)
+* Esperanto: Libre fan (librefan.eu.org), Spenĉjo
 
 * Farsi: Aslan Zamanloo
 
@@ -55,7 +55,7 @@ License
 
 * Japanese: guruguru
 
-* Korean: Shikamaru "initbar" Yamamoto
+* Korean: Shikamaru "initbar" Yamamoto, Jihoon Kim
 
 * Kotava: Erwhann-Rouge / webmistusik
 

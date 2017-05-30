@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.0 r15299"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P01.svg"
@@ -50,16 +50,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1345"
-     inkscape:window-height="982"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2239974"
-     inkscape:cx="871.77348"
-     inkscape:cy="1816.5925"
-     inkscape:window-x="422"
-     inkscape:window-y="91"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.4479948"
+     inkscape:cx="1220.8675"
+     inkscape:cy="632.02529"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
     <inkscape:grid
@@ -84,7 +84,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/eo/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
+       sodipodi:absref="C:\Users\Gebruiker\Downloads\peppercarrot_ep01_translation-master\eo\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
        width="2481"
        height="3503"
@@ -110,8 +110,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscscc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1153.4802,1444.7195 c -1.3704,-64.406 97.2941,-146.6265 165.8111,-138.4044 68.517,8.222 138.4044,65.7763 150.7374,108.2569 12.3331,42.4805 54.8136,121.9602 -149.367,138.4043 -71.2577,4.111 -172.6629,-43.8509 -167.1815,-108.2568 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03992069px;marker:none;enable-background:accumulate"
+       d="m 1140.1045,1444.7195 c -1.4819,-64.406 105.2173,-146.6265 179.314,-138.4044 74.0967,8.222 149.6754,65.7763 163.0127,108.2569 13.3374,42.4805 59.2773,121.9602 -161.5307,138.4043 -77.0606,4.111 -186.7237,-43.8509 -180.796,-108.2568 z"
        id="path3097"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc" />
@@ -131,7 +131,7 @@
        xml:space="preserve"
        id="flowRoot3063-8"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       transform="matrix(0.62578859,0,0,0.65468471,1049.5739,-47.421934)"><flowRegion
+       transform="matrix(0.62578859,0,0,0.65468471,1049.5739,-51.421934)"><flowRegion
          id="flowRegion3065-8"><rect
            id="rect3067-6"
            width="569.74268"
@@ -140,13 +140,13 @@
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3188">...nun la eron</flowPara><flowPara
+         id="flowPara46">...kaj nur iomete</flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3078">finpretigan</flowPara></flowRoot>    <flowRoot
+         id="flowPara43">da tio ĉi</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       transform="matrix(0.62578859,0,0,0.65468471,1091.522,1073.0891)"><flowRegion
+       transform="matrix(0.62578859,0,0,0.65468471,1089.522,1057.0891)"><flowRegion
          id="flowRegion3065-8-1"><rect
            id="rect3067-6-3"
            width="526.9325"
@@ -155,11 +155,11 @@
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3188-1">...hmm</flowPara><flowPara
+         id="flowPara3188-1">...mmm</flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3224">verŝajne</flowPara><flowPara
+         id="flowPara3082">verŝajne ne estas </flowPara><flowPara
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         id="flowPara3082">ne sufiĉas</flowPara></flowRoot>    <flowRoot
+         id="flowPara52">sufiĉe forte</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1;stroke-opacity:1"
@@ -173,7 +173,7 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1.06872857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ŜUŜ</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.80638474px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1.06872857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Ŝŝŝ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1.16579425;stroke-opacity:1"
@@ -187,7 +187,7 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1.16579425;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1.24591756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">ŜUŜ</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.94007871px;word-spacing:0.0031336px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:1.24591756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Ŝŝŝ</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:1.01278496;stroke-opacity:1"
