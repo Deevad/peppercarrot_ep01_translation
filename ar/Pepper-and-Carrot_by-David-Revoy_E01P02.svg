@@ -12,14 +12,30 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 unknown"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02_092.svg"
    enable-background="new"
    inkscape:export-filename="C:\Users\Mahwiii\Desktop\Manga\translations\pepper carrot\peppercarrot_ep01_translation-master\ar\Pepper-and-Carrot_by-David-Revoy_E01P02.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1813"
+     inkscape:window-height="955"
+     id="namedview70"
+     showgrid="false"
+     inkscape:zoom="0.4"
+     inkscape:cx="1264.4231"
+     inkscape:cy="1056.1204"
+     inkscape:current-layer="layer3"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -53,15 +69,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.19588642"
-     inkscape:cx="-235.06546"
-     inkscape:cy="1515.4318"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:cx="-224.85546"
+     inkscape:cy="1505.2218"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -72,7 +88,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52000046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      transform="translate(66.587849,-7188.9439)"><flowRegion
        id="flowRegion2989"><rect
          id="rect2991"
@@ -81,14 +97,15 @@
          x="784.26141"
          y="3883.7747"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-       id="flowPara2993" /></flowRoot>  <g
+       id="flowPara2993"
+       style="font-size:8.52000046px;line-height:1.25"> </flowPara></flowRoot>  <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/ar/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep01_Potion-of-Flight/lang/ar/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        y="0"
        x="0"
@@ -134,7 +151,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        transform="matrix(0.62578859,0,0,0.65468471,1621.2612,63.407132)"><flowRegion
          id="flowRegion3065-8-1-1"><rect
            id="rect3067-6-3-8"
@@ -149,7 +166,7 @@
          id="flowPara3264">مُمتاز!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1-9"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        transform="matrix(0.62578859,0,0,0.65468471,1131.3638,1077.8303)"><flowRegion
          id="flowRegion3065-8-1-1-1"><rect
            id="rect3067-6-3-8-9"
@@ -164,8 +181,8 @@
          id="flowPara3300">إياكَ حتى أن تُفكرَ بِذلك!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1"
-       transform="matrix(4.2428115,-2.1855684,3.7333946,5.9465088,-8020.925,-872.47127)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1"
+       transform="matrix(4.2428115,-2.1855684,3.7333946,5.9465088,-7945.925,-882.47127)"><flowRegion
          id="flowRegion4135-2-9-3-5"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2"
@@ -175,10 +192,10 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">سبلاش</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">سبلاش</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4265"
-       style="font-style:normal;font-weight:normal;font-size:28.39999962px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(66.587849,-7188.9439)"><flowRegion
          id="flowRegion4267"><rect
            id="rect4269"
@@ -186,5 +203,6 @@
            height="45.850552"
            x="1116.0061"
            y="5396.9648" /></flowRegion><flowPara
-         id="flowPara4271" /></flowRoot>  </g>
+         id="flowPara4271"
+         style="font-size:28.39999962px;line-height:1.25"> </flowPara></flowRoot>  </g>
 </svg>

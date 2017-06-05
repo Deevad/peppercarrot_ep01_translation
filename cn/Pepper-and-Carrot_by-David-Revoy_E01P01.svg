@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P01.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P01_092.svg"
    enable-background="new">
-  <metadata
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -51,14 +51,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1026"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25759701"
-     inkscape:cx="418.98371"
-     inkscape:cy="2169.1207"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="426.74778"
+     inkscape:cy="2161.3566"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -69,7 +69,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52000046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      transform="translate(67.104897,-3923.6455)"><flowRegion
        id="flowRegion2989"><rect
          id="rect2991"
@@ -78,20 +78,21 @@
          x="768.16864"
          y="3979.3481"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-       id="flowPara2993" /></flowRoot>  <g
+       id="flowPara2993"
+       style="font-size:8.52000046px;line-height:1.25"> </flowPara></flowRoot>  <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep01_Potion-of-Flight/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P01.png"
-       width="2481"
-       height="3503"
-       id="image3084"
+       y="0"
        x="0"
-       y="0" />
+       id="image3084"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -131,7 +132,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        transform="matrix(0.62578859,0,0,0.65468471,1041.0078,-40.515087)"><flowRegion
          id="flowRegion3065-8"><rect
            id="rect3067-6"
@@ -140,13 +141,13 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3078">…最后一项</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3429">配料</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        transform="matrix(0.62578859,0,0,0.65468471,1102.6463,1074.5801)"><flowRegion
          id="flowRegion3065-8-1"><rect
            id="rect3067-6-3"
@@ -155,17 +156,17 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3188-1">嗯……</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3224">估计是</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3431">用量不足</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3082">pas assez</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(3.1219039,-2.4434139,0.80836306,5.7700586,-3341.1668,-2852.5006)"><flowRegion
          id="flowRegion4135"
          style="stroke-width:1"><rect
@@ -176,10 +177,10 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">唰唰</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">唰唰</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(2.5468262,-2.0829765,0.62128662,5.2667366,-2406.0064,-2747.748)"><flowRegion
          id="flowRegion4135-2"
          style="stroke-width:1.16579425"><rect
@@ -190,10 +191,10 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">唰唰</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d0a273;fill-opacity:1;stroke:#d0a273;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">唰唰</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.5197821;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.51978213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(3.3429387,0.39588463,-1.5310809,5.2459875,-699.73737,-3128.9436)"><flowRegion
          id="flowRegion4135-2-9"
          style="stroke-width:1.01278496"><rect
@@ -202,12 +203,12 @@
            height="24.039366"
            x="1125.3193"
            y="1078.5308"
-           style="letter-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.5197821;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="letter-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.51978213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.5197821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">哗啦</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.51978213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">哗啦</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.5197821;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.51978213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(2.8600054,-1.775481,2.0750237,5.0555781,-4513.3886,-459.65513)"><flowRegion
          id="flowRegion4135-2-9-7"
          style="stroke-width:1.01278496"><rect
@@ -216,7 +217,7 @@
            height="24.039366"
            x="1125.3193"
            y="1078.5308"
-           style="letter-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.5197821;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+           style="letter-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.51978213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2-8-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.5197821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">哗啦</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#daa761;fill-opacity:1;stroke:#daa761;stroke-width:0.51978213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">哗啦</flowPara></flowRoot>  </g>
 </svg>

@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 renderfarm"
    width="2481"
    height="663"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P00.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P00_092.svg"
    enable-background="new">
-  <metadata
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -75,13 +75,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/uk/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep01_Potion-of-Flight/lang/uk/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
-       y="0"
-       x="0"
-       id="image3084"
+       width="2481"
        height="663"
-       width="2481" />
+       id="image3084"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -96,7 +96,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2a5953;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2a5953;fill-opacity:1;stroke:none"
        transform="translate(-85.311952,89.576479)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
@@ -104,9 +104,9 @@
            height="110.01318"
            x="92.642677"
            y="425.30325"
-           style="font-size:72px;fill:#2a5953;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-size:72px;fill:#2a5953;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#2a5953;fill-opacity:1;">Епізод 1 : Зілля польоту</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;line-height:1.25;font-family:Neucha;-inkscape-font-specification:Neucha;text-align:center;text-anchor:middle;fill:#2a5953;fill-opacity:1">Епізод 1 : Зілля польоту</flowPara></flowRoot>    <g
        id="layer1-3"
        inkscape:label="Layer 1"
        transform="matrix(1,0,0.01360376,1,-30798.616,1620.2311)"
