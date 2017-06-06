@@ -12,27 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02_092.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
    enable-background="new">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1813"
-     inkscape:window-height="955"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="0.529"
-     inkscape:cx="1180.2246"
-     inkscape:cy="742.83781"
-     inkscape:current-layer="layer3"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0" />
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -73,8 +57,8 @@
      inkscape:zoom="0.25759701"
      inkscape:cx="621.75803"
      inkscape:cy="1444.6556"
-     inkscape:window-x="644"
-     inkscape:window-y="27"
+     inkscape:window-x="727"
+     inkscape:window-y="-5"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -85,7 +69,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52000046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      transform="translate(95.871536,-7230.282)"><flowRegion
        id="flowRegion2989"><rect
          id="rect2991"
@@ -94,15 +78,14 @@
          x="769.78998"
          y="3883.7747"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-       id="flowPara2993"
-       style="font-size:8.52000046px;line-height:1.25"> </flowPara></flowRoot>  <g
+       id="flowPara2993" /></flowRoot>  <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep01_Potion-of-Flight/lang/fi/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fi/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        y="0"
        x="0"
@@ -148,7 +131,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        transform="matrix(0.62578859,0,0,0.65468471,1744.4475,13.732618)"><flowRegion
          id="flowRegion3065-8-1-1"><rect
            id="rect3067-6-3-8"
@@ -158,12 +141,12 @@
            y="425.30325"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi">haa...</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">haa...</flowPara><flowPara
          id="flowPara3435"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi">täydellistä</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">täydellistä</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1-9"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        transform="matrix(0.62578859,0,0,0.65468471,1189.2784,1032.8965)"><flowRegion
          id="flowRegion3065-8-1-1-1"><rect
            id="rect3067-6-3-8-9"
@@ -173,13 +156,13 @@
            y="425.30325"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
          id="flowPara3447"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi">EI!</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">EI!</flowPara><flowPara
          id="flowPara3449"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.99986267px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi">Älä kuvittelekaan!</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">Älä kuvittelekaan!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1"
-       transform="matrix(3.0123478,-0.56955109,0.58962563,6.0084875,-2571.342,-2892.654)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1"
+       transform="matrix(3.0123478,-0.56955109,0.58962563,6.0084875,-2588.3552,-2915.3383)"><flowRegion
          id="flowRegion4135-2-9-3-5"
          style="stroke-width:0.86646658"><rect
            id="rect4137-1-7-1-2"
@@ -189,7 +172,7 @@
            y="1078.5308"
            style="letter-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.86646658;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara4139-2-8-6-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0.00204969px;word-spacing:0.00204969px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowSpan
    style="font-size:7.81850576px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-opacity:1"
    id="flowSpan4267">S</flowSpan><flowSpan
    style="font-size:9.90925312px;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601746;stroke-opacity:1"

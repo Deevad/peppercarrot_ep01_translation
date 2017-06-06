@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r"
    width="2481"
    height="663"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P00_092.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P00.svg"
    enable-background="new">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -50,15 +50,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.50065612"
-     inkscape:cx="988.45556"
-     inkscape:cy="169.87986"
+     inkscape:cx="984.4608"
+     inkscape:cy="173.87462"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -69,29 +69,28 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Lavi;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Lavi;font-stretch:normal;font-variant:normal"><flowRegion
        id="flowRegion2989"><rect
          id="rect2991"
          width="1016.5607"
          height="77.684769"
          x="838.99548"
          y="443.73529"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-       id="flowPara2993"
-       style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>  <g
+         style="-inkscape-font-specification:Lavi;font-family:Lavi;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+       id="flowPara2993" /></flowRoot>  <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep01_Potion-of-Flight/lang/bn/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/bn/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P00.png"
-       width="2481"
-       height="663"
-       id="image3084"
+       y="0"
        x="0"
-       y="0" />
+       id="image3084"
+       height="663"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -106,7 +105,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cbba74;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cbba74;fill-opacity:1;stroke:none;"
        transform="matrix(0.92942645,0,0,0.92942645,-98.588272,118.88937)"><flowRegion
          id="flowRegion3065"><rect
            id="rect3067"
@@ -114,9 +113,9 @@
            height="110.01318"
            x="92.642677"
            y="425.30325"
-           style="font-size:72px;fill:#cbba74;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:72px;fill:#cbba74;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#cbba74;fill-opacity:1">গল্প ১: ওড়ার যাদুমিশ্রণ</flowPara></flowRoot>    <image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#cbba74;fill-opacity:1;">গল্প ১: ওড়ার যাদুমিশ্রণ</flowPara></flowRoot>    <image
        y="189.53432"
        x="552.11182"
        id="image3489"

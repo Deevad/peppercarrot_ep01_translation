@@ -12,12 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 renderfarm"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
-   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02_092.svg"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P02.svg"
    enable-background="new">
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1813" inkscape:window-height="955" id="namedview70" showgrid="false" inkscape:zoom="0.4" inkscape:cx="1284.4231" inkscape:cy="2618.6204" inkscape:current-layer="layer1" /><metadata
+  <metadata
      id="metadata8">
     <rdf:RDF>
       <cc:Work
@@ -62,15 +62,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.5083558"
-     inkscape:cx="1231.0463"
-     inkscape:cy="491.33821"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="1227.112"
+     inkscape:cy="495.27246"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -81,7 +81,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot2987"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.52000046px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      transform="translate(132.83989,-7223.9564)"><flowRegion
        id="flowRegion2989"><rect
          id="rect2991"
@@ -90,21 +90,20 @@
          x="723.17682"
          y="3883.7747"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
-       id="flowPara2993"
-       style="font-size:8.52000046px;line-height:1.25"> </flowPara></flowRoot>  <g
+       id="flowPara2993" /></flowRoot>  <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep01_Potion-of-Flight/lang/el/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
+       sodipodi:absref="G:\Pepper And Carrot\Translation\peppercarrot_ep01_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P02.png"
-       y="0"
-       x="0"
-       id="image3084"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image3084"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -138,56 +137,54 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3115"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
-         id="flowRegion3117"
-         style="font-family:sans-serif"><rect
+         id="flowRegion3117"><rect
            id="rect3119"
            width="639.91162"
            height="234.82996"
            x="419.75854"
-           y="1171.8798"
-           style="font-family:sans-serif" /></flowRegion><flowPara
-         id="flowPara3121"
-         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <text
+           y="1171.8798" /></flowRegion><flowPara
+         id="flowPara3121" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1775.4821"
        y="329.02603"
-       id="text3937"><tspan
+       id="text3937"
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3939"
-         x="1788.0145"
-         y="329.02603"
-         style="font-size:53.25px;line-height:1"> </tspan></text>
+         x="1775.4821"
+         y="329.02603" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c4036;fill-opacity:1;stroke:none;filter:url(#filter3967)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c4036;fill-opacity:1;stroke:none;filter:url(#filter3967)"
        x="2233.8201"
        y="5642.4551"
        id="text3941"
+       sodipodi:linespacing="100%"
        transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><tspan
          sodipodi:role="line"
          id="tspan3943"
          x="2233.8201"
          y="5642.4551"
-         style="font-size:75px;line-height:1;opacity:0.60912057">Αχά...</tspan><tspan
+         style="opacity:0.60912057">Αχά...</tspan><tspan
          sodipodi:role="line"
          x="2233.8201"
          y="5717.4551"
          id="tspan3945"
-         style="font-size:75px;line-height:1;opacity:0.60912057">τέλεια</tspan></text>
+         style="opacity:0.60912057">τέλεια</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1930.7604"
        y="162.96986"
-       id="text3971"><tspan
+       id="text3971"
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3973"
-         x="1943.2928"
-         y="162.96986"
-         style="font-size:53.25px;line-height:1"> </tspan></text>
+         x="1930.7604"
+         y="162.96986" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -197,7 +194,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4133-6-9-4-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.00204969px;word-spacing:0px;display:inline;fill:#d9a73d;fill-opacity:1;stroke:#d9a83d;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(4.26975,-1.1620565,2.0830683,6.9471716,-5622.5411,-3246.6132)"><flowRegion
          id="flowRegion4135-2-9-3-5"
          style="stroke-width:0.86646658"><rect
@@ -223,7 +220,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:16.3706665px;line-height:125%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.92601752;stroke-miterlimit:4;stroke-dasharray:none">Μ</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3913"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0.01%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
          id="flowRegion3915"><rect
            id="rect3917"
@@ -231,11 +228,10 @@
            height="218.68506"
            x="1203.5035"
            y="2277.0483" /></flowRegion><flowPara
-         id="flowPara3919"
-         style="font-size:75px;line-height:1"> </flowPara></flowRoot>    <flowRoot
+         id="flowPara3919" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3921"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0.01%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
          id="flowRegion3923"><rect
            id="rect3925"
@@ -243,11 +239,10 @@
            height="211.34695"
            x="1458.8811"
            y="2326.9497" /></flowRegion><flowPara
-         id="flowPara3927"
-         style="font-size:75px;line-height:1"> </flowPara></flowRoot>    <flowRoot
+         id="flowPara3927" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3929"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0.01%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:75px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.71,0,0,0.71,260.32992,-3655.2337)"><flowRegion
          id="flowRegion3931"><rect
            id="rect3933"
@@ -255,54 +250,53 @@
            height="306.74643"
            x="1169.7467"
            y="2233.0178" /></flowRegion><flowPara
-         id="flowPara3935"
-         style="font-size:75px;line-height:1"> </flowPara></flowRoot>    <text
+         id="flowPara3935" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c4036;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3c4036;fill-opacity:1;stroke:none"
        x="1841.6018"
        y="354.54996"
-       id="text3975"><tspan
+       id="text3975"
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3977"
          x="1841.6018"
-         y="354.54996"
-         style="font-size:53.25px;line-height:1">Αχά...</tspan><tspan
+         y="354.54996">Αχά...</tspan><tspan
          sodipodi:role="line"
          x="1841.6018"
          y="407.79996"
-         id="tspan3979"
-         style="font-size:53.25px;line-height:1">τέλεια</tspan></text>
+         id="tspan3979">τέλεια</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1394.0889"
        y="1350.2429"
-       id="text3981"><tspan
+       id="text3981"
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3983"
          x="1394.0889"
          y="1350.2429"
-         style="font-size:53.25px;line-height:1;fill:#3c4036;fill-opacity:1">ΟΧΙ!</tspan><tspan
+         style="fill:#3c4036;fill-opacity:1">ΟΧΙ!</tspan><tspan
          sodipodi:role="line"
          x="1394.0889"
          y="1403.4929"
          id="tspan3985"
-         style="font-size:53.25px;line-height:1;fill:#3c4036;fill-opacity:1">Ούτε να το</tspan><tspan
+         style="fill:#3c4036;fill-opacity:1">Ούτε να το</tspan><tspan
          sodipodi:role="line"
          x="1394.0889"
          y="1456.7429"
          id="tspan3987"
-         style="font-size:53.25px;line-height:1;fill:#3c4036;fill-opacity:1">σκέφτεσαι</tspan></text>
+         style="fill:#3c4036;fill-opacity:1">σκέφτεσαι</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;line-height:0%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:53.25px;line-height:100%;font-family:Pecita;-inkscape-font-specification:'Pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="538.85779"
        y="3967.3074"
-       id="text4023"><tspan
+       id="text4023"
+       sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan4025"
-         x="551.39026"
-         y="3967.3074"
-         style="font-size:53.25px;line-height:1"> </tspan></text>
+         x="538.85779"
+         y="3967.3074" /></text>
   </g>
 </svg>
