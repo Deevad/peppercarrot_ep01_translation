@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.1 r15371"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E01P03.svg"
@@ -51,14 +51,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-height="1137"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25606623"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.51213246"
+     inkscape:cx="1381.5167"
+     inkscape:cy="1776.0302"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      inkscape:snap-global="false">
@@ -73,13 +73,13 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/pt/../gfx_Pepper-and-Carrot_by-David-Revoy_E01P03.png"
+       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep01_translation\pt\../gfx_Pepper-and-Carrot_by-David-Revoy_E01P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E01P03.png"
-       y="0"
-       x="0"
-       id="image3084"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image3084"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -88,7 +88,7 @@
      style="opacity:0.70232556;display:inline;filter:url(#filter4386)">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dfffd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 751.75153,1458.8735 c -1.62381,-50.428 77.94289,-66.186 99.05243,-69.338 21.10954,-3.153 212.71924,11.03 220.83824,59.883 8.119,48.853 -92.55723,75.643 -189.98585,66.188 -97.42862,-9.456 -131.52863,-36.245 -129.90482,-56.733 z"
+       d="m 753.70415,1458.8735 c -1.62381,-50.428 77.94289,-66.186 99.05243,-69.338 21.10954,-3.153 212.71922,11.03 220.83822,59.883 8.119,48.853 -92.55721,75.643 -189.98583,66.188 -97.42862,-9.456 -131.52863,-36.245 -129.90482,-56.733 z"
        id="path3145"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssc" />
@@ -107,8 +107,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1-9-6"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       transform="matrix(0.62578859,0,0,0.65468471,638.69226,1145.8415)"><flowRegion
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       transform="matrix(0.62578859,0,0,0.65468471,658.21846,1154.6283)"><flowRegion
          id="flowRegion3065-8-1-1-1-9"><rect
            id="rect3067-6-3-8-9-8"
            width="615.07123"
@@ -116,11 +116,11 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#3c4036;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
          id="flowPara3300-4">Satisfeito?!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3063-8-6-1-9-0"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.34883722;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.16507292;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.34883722;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.16507292;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="matrix(0.3931901,0,-0.11464216,0.86351947,1658.2629,2415.5335)"><flowRegion
          id="flowRegion3065-8-1-1-1-7"
          style="stroke-width:2.16507292"><rect
@@ -130,8 +130,8 @@
            x="92.642677"
            y="425.30325"
            style="color:#000000;font-size:72px;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.16507292;stroke-opacity:1;marker:none;enable-background:accumulate" /></flowRegion><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.05892754px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:7.18542147px;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.05892754px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:7.18542147px;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara3300-48">WWW.PEPPERCARROT.COM</flowPara><flowPara
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.05892754px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:7.18542147px;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.05892754px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:7.18542147px;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#9adbf1;fill-opacity:1;fill-rule:nonzero;stroke:#95cde0;stroke-width:2.80495787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="flowPara4439">05/2014</flowPara></flowRoot>  </g>
 </svg>
